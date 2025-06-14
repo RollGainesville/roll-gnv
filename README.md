@@ -1,3 +1,3 @@
 # Roll Gainesville
 
-Source code for the skeeball league web app.
+This is the official website for the Roll Gainesville skeeball league.
